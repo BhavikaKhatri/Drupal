@@ -25,10 +25,9 @@ parameters:
 twig.config:
 debug: true
 
-Check the Output:
-
 2.  Navigate to Admin > Configuration > Performance.
-    Click on Clear all caches.
+
+Check the Output:
 
 Open a page in your browser and inspect the HTML source. Look for comments indicating the theme file suggestions.
 
